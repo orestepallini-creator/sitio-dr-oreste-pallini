@@ -1,0 +1,3 @@
+# BORRADOR: no indexar todavía. Al publicar, poner BORRADOR = False en build.py y regenerar.
+User-agent: *
+Disallow: /
